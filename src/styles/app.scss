@@ -1,0 +1,16 @@
+/*En tu hoja de estilos */
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.app-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

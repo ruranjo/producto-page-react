@@ -1,0 +1,43 @@
+.product-section-container{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid red;
+    width: 80%;
+    margin-top:1rem ;
+}
+
+.left-product{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    border: 1px solid red;
+
+}
+
+.right-product{
+    width: 40%;
+    border: 1px solid red;
+}
+
+.selected{
+    border: 1px solid blue;
+}
+
+.main-image{
+    width: 400px;
+    border-radius: 20px;
+    height: auto;
+}
+
+.small-image{
+    width: 75px;
+    
+    height: auto;
+}
+
+.img-slicer{
+    border: 1px solid blue;
+    display: flex;
+    justify-content: space-between;
+}

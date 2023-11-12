@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+/*-Layout */
+
+$width-mobile: 375px;
+$width-desktop: 1440px;
+
+/*-Colors */
+ 
+/*--Primary */
+
+$primary-orange: hsl(26, 100%, 55%);
+$primary-pale-orange: hsl(25, 100%, 94%);
+
+/*--Neutral */
+
+$neutral-dark: hsl(234, 29%, 20%);
+$neutral-Charcoal: hsl(235, 18%, 26%);
+$neutral-Grey: hsl(231, 7%, 60%);
+$neutral-white: hsl(0, 0%, 100%);
+
+
+$neutral-very-dark-blue: hsl(220, 13%, 13%);
+$neutral-dark-grayish-blue: hsl(219, 9%, 45%);
+$neutral-grayish-blue: hsl(220, 14%, 75%);
+$neutral-light-grayish-blue: hsl(223, 64%, 98%);
+$neutral-white: hsl(0, 0%, 100%);
+$neutral-Black: rgba(0,0,0,0.75);
+
+/*-Typography*/
+
+/*--Font-size*/
+$size-paragraph: 16px;
+
+/*--Font*/
+
+$font-family: 'Kumbh Sans', sans-serif;
+
+
+/*
+# Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+### Primary
+
+- Orange: hsl(26, 100%, 55%)
+- Pale orange: hsl(25, 100%, 94%)
+
+### Neutral
+
+- Very dark blue: hsl(220, 13%, 13%)
+- Dark grayish blue: hsl(219, 9%, 45%)
+- Grayish blue: hsl(220, 14%, 75%)
+- Light grayish blue: hsl(223, 64%, 98%)
+- White: hsl(0, 0%, 100%)
+- Black (with 75% opacity for lightbox background): hsl(0, 0%, 0%)
+
+## Typography
+
+### Body Copy
+
+- Font size (paragraph): 16px
+
+### Font
+
+- Family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
+- Weights: 400, 700
+
+*/
